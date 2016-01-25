@@ -1,0 +1,11 @@
+Malloc, heap and time
+1. static 
+2. free
+
+Heap allocation gotchas
+1. all the heap memory is used up
+2. ctime() provides a human readable version. 
+3. the same location is being freed twice. By the second time it has already been freed. 
+4. you cannot print out where the pointer leads if it has been freed.
+5. dont try to do something to pointers that have already been freed. 
+

@@ -1,0 +1,6 @@
+Reading characters, Trouble with gets
+1. getchar(), putchar()
+2. It can get and write to things it shouldn't
+getline is useful
+1. #define _GNU_SOURCE
+2. 

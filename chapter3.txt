@@ -1,0 +1,15 @@
+Program arguments argc argv
+1. the size of argc and with sizeof or just iterate it
+2. the name of the program
+
+Environment variables
+1. root?
+
+String searching (strings are just char arrays)
+1. sizeof(ptr)=8
+sizeof(array)=6
+
+lifetime of automatic variables
+1. stack
+
+
